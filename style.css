@@ -268,8 +268,11 @@ td, th {
 
     nav {
         position: static;
-        text-align: center;
 
+    }
+
+    .caixa {
+        margin: 0 auto;
     }
 
     .lista-beneficios, .imagem-beneficios {
