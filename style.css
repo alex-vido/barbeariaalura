@@ -258,7 +258,7 @@ td, th {
 
 /* index */
 @media screen and (max-width: 480px) {
-    .caixa, .href-header, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
 
@@ -272,6 +272,10 @@ td, th {
 
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
+    }
+
+    .href-header {
+        font-size: 20px;
     }
 }
 
