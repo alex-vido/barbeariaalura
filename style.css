@@ -274,7 +274,7 @@ td, th {
         width: 100%;
     }
 
-    .href-header {
+    .nav a {
         font-size: 20px;
     }
 }
