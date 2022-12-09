@@ -258,7 +258,7 @@ td, th {
 
 /* index */
 @media screen and (max-width: 480px) {
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+    .caixa, .href-header, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
 
