@@ -268,15 +268,14 @@ td, th {
 
     nav {
         position: static;
+        text-align: center;
+
     }
 
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
     }
 
-    .nav a {
-        font-size: 18px;
-    }
 }
 
 /* products */
